@@ -11,7 +11,7 @@
 }
 header {
     margin-inside: 12px;
-    @font-face: NHL,Arial, sans-serif;
+
 }
 footer {
     margin-outside: 15px;
@@ -43,8 +43,9 @@ small, a {
 
 
 li{
-margin-right: 40%;
-    margin-left: 46%;
+
+margin-right: 50%;
+    margin-left: 45%;
 
 }
 .background{
@@ -60,6 +61,7 @@ box-shadow: 10px 10px 10px  red ;
 p , h1 , h2 {
     text-align: center;
 }
-html{
+@font-face {
+        font-family : Agency FB, Arial,sans-serif;
 
 }
