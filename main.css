@@ -1,0 +1,65 @@
+#expe {
+    color: red;
+    font-size: 20px;
+
+}
+#comp {
+    font-size: 1em;
+}
+#form {
+    font-size: 1rem;
+}
+header {
+    margin-inside: 12px;
+    @font-face: NHL,Arial, sans-serif;
+}
+footer {
+    margin-outside: 15px;
+
+    border: aquamarine;
+}
+ {
+    text-align: center;
+    background-position:bottom ;
+
+    max-font-size: 800px ;
+
+}
+.img{
+    background-position-x:center ;
+    background-position-y:top ;
+    box-shadow: blue;
+    margin: 45%;
+
+}
+a:hover {
+    background-color: darkcyan;
+
+
+}
+small, a {
+    margin: 45%;
+}
+
+
+li{
+margin-right: 40%;
+    margin-left: 46%;
+
+}
+.background{
+    background-position-x: center;
+    background-position-y: bottom ;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHoEcKWl66LlYebHyM8aQ57-E6lghJniYIYOIRMhb0Q&s");
+box-shadow: 10px 10px 10px  red ;
+    margin: 45%;
+}
+.center{
+    text-align: center;
+}
+p , h1 , h2 {
+    text-align: center;
+}
+html{
+
+}
